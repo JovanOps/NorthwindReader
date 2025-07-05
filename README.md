@@ -14,5 +14,3 @@ This app:
 - Connects to the Northwind SQL database using LocalDB
 - Retrieves product information (ID, name, and category) using a SQL JOIN
 - Displays the results in the console in a user-friendly format
-
-## 💡 Example Output:
